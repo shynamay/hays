@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">hakdog</string>
+    <string name="image_description">Description for your image</string>
+    <string name="image1_description">Description for your image 1</string>
+    <string name="image2_description">Description for your image 2</string>
+    <string name="image3_description">Description for your image 3</string>
+    <string name="image4_description">Description for your image 4</string>
+    <string name="image5_description">Description for your image 5</string>
+    <string name="image6_description">Description for your image 6</string>
+    <string name="image9_description">Description for your image 9</string>
+    <string name="image7_description">Description for your image 7</string>
+    <string name="image8_description">Description for your image 8</string>
+    <string name="image10_description">Description for your image 10</string>
+
+
+
+    <string name="button_description">Description for button   </string>
+    <string name="button1_description">Description for button 1</string>
+    <string name="button2_description">Description for button 2</string>
+    <string name="button3_description">Description for button 3</string>
+    <string name="button4_description">Description for button 4</string>
+    <string name="button5_description">Description for button 5</string>
+    <string name="button6_description">Description for button 6</string>
+    <string name="button7_description">Description for button 7</string>
+    <string name="button8_description">Description for button 8</string>
+    <string name="button9_description">Description for button 9</string>
+    <string name="button10_description">Description for button 10</string>
+    <string name="button11_description">Description for button 11</string>
+
+    <string name="time_text">00:00</string>
+    <color name="red">#FF0000</color>
+
+</resources>
+
+
