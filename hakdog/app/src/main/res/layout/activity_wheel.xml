@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="48dp"
         android:fontFamily="@font/minecraftregular_bmg3"
-        android:text="@string/time_text"
+        android:text="@string/time3_text"
         android:textSize="30.2sp"
         android:textColor="#FF0000"
         app:layout_constraintBottom_toTopOf="@+id/imageButton3"
